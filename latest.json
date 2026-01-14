@@ -1,15 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "Automatic release for version v0.2.2 generated on 2026-01-10 05:42:22",
-  "pub_date": "2026-01-10T00:18:09.488900Z",
+  "version": "0.2.3",
+  "notes": "Automatic release for version v0.2.3 generated on 2026-01-14 21:30:56",
+  "pub_date": "2026-01-14T16:00:56.798648Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTlEOHB5Z1ZwbE16L0o0c2lkYnZvSnFzM1VPWGhvcjN2N25FVCs3T0l0VmZ1VStQbS85aUVDRy9YNklDNC9ubHk5ZUo4VXlxQ3FaeDVJMGVUamRHeWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MDAzNzE3CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKVW9CZTJmYm5UWk1kYmNMRWRWWVpSd1JXYTNCcjBRSFB5eHQ0MnhYaVBieTVyeUtCVGZvMkJRajB5Ty9OZW9lc3FvZWptR3QvWng3SUxHVnhIQ3VDQUE9PQo=",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.2/Sarant.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUXp3TVd4KzQ2dHRyTU4xYXduT2crWVlMcExCT056bmhrT3NsOVpQMm81NzlxOWVIWW9QWmViczUzNjJhZ0VDNmdVL1BHWEFjN0FZZGhRWkN3a1lKRHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MDA0MjYzCWZpbGU6U2FyYW50XzAuMi4yX3g2NC1zZXR1cC5uc2lzLnppcAp1TjhNcG5WLzlmTFUrRC9iS1lKU2cxYWNUVTJwUGtOT0ZPZnFFWU56SHhmOCtOMnh5M2RUaXZXRXhnbUdEOG1JQXVhV1ZFazFtZHpCRjZUWTl3NEdCZz09Cg==",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.2/Sarant_0.2.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUXlydVRxVzdzdFk2MVVFekErQSt2L2l2MFduL2pKSmlMMWZqZnp2MG82ZHhiMjhuU0tLZHdIS0NoUXc0WENYckpBakptNlN0OVYwellJcy9vNzArWGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDA2NDM4CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKcjVqZXdkWkZRY1BBb0czaXBoa1N1c29icnVsQ2dDREpJd2pPeU9MMGFCd3B2V1BYNU8xNDIrckpPeWV4OWJnZUpHYXNTRzRwVnJlTTAvTGovdXlRQUE9PQo=",
+      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.3/Sarant.app.tar.gz"
     }
   }
 }
