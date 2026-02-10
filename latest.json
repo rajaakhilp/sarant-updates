@@ -1,6 +1,6 @@
 {
   "version": "0.2.10",
-  "notes": "## What’s New in 0.2.10\n\n- Better answer quality for voice sessions: the assistant now handles minor speech-to-text mistakes more naturally and uses surrounding context to understand intent.\n- New clipboard-aware Assist: when you copy text during an active session, Assist/Auto-Assist can use it if it was copied after the last assistant response.\n- Faster code-help flow: for code-output questions, responses now lead with the predicted output and then give a short clear explanation.\n- Improved reliability under slow-response conditions with stronger retry/fallback behavior.\n- User management updates: added scheduled account deletion support and improved admin controls for user removal.\n\n## Improvements\n- Stability and reliability improvements across answer generation and session handling.\n- Minor client update/version alignment for this release.\n\n## Privacy/Behavior Notes\n- Clipboard context is used only when it is newer than the assistant’s last message in the session.\n- Clipboard text is treated as ephemeral context for answering, not stored as raw persistent content.",
+  "notes": "Improved voice session accuracy with better handling of minor transcription errors. Added clipboard-aware Assist during active sessions. Faster code-help responses with clearer outputs. Improved reliability under slow network conditions. Includes stability fixes, minor client alignment, and updated user management controls.",
   "pub_date": "2026-02-10T19:44:08.197613Z",
   "platforms": {
     "windows-x86_64": {
