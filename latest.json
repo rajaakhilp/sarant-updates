@@ -1,6 +1,6 @@
 {
   "version": "0.2.11",
-  "notes": "Automatic release for version v0.2.11 generated on 2026-02-11 03:32:22",
+  "notes": "Improved voice session accuracy with better handling of minor transcription errors. Added clipboard-aware Assist during active sessions. Faster code-help responses with clearer outputs. Improved reliability under slow network conditions. Includes stability fixes, minor client alignment, and updated user management controls.",
   "pub_date": "2026-02-10T22:06:26.837952Z",
   "platforms": {
     "darwin-aarch64": {
