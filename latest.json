@@ -1,7 +1,7 @@
 {
   "version": "0.2.11",
   "notes": "Improved voice session accuracy with better handling of minor transcription errors. Added clipboard-aware Assist during active sessions. Faster code-help responses with clearer outputs. Improved reliability under slow network conditions. Includes stability fixes, minor client alignment, and updated user management controls.",
-  "pub_date": "2026-02-10T22:06:26.837952Z",
+  "pub_date": "2026-02-10T22:10:19.684099Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTlSVUlYU21oUmFLN2VFeWJuekJNUDBVL3crVkx2MXZaelduNDZ0OUtyT3haOVNveVZHMGdOMlo2eHZwME5senVlSlBlMlVnYTJ3RERacFN3THpZS0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzYwOTAzCWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKd2ZXZjZRNzVPSUtiMTBteXhXOHI2SnlUbjRxa2lpRStuOXFTRG9iWjZRWjhLWFBxNFNHODllTnMwa3dqSFZZaVpkN2FvT1FQSjMxdTYvd0NpcCtVRHc9PQo=",
