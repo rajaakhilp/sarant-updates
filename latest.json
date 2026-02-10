@@ -1,15 +1,11 @@
 {
-  "version": "0.2.9",
-  "notes": "Automatic release for version v0.2.9 generated on 2026-02-10 04:31:29",
-  "pub_date": "2026-02-09T23:04:41.998857Z",
+  "version": "0.2.10",
+  "notes": "Automatic release for version v0.2.10 generated on 2026-02-11 01:13:54",
+  "pub_date": "2026-02-10T19:43:54.780915Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUXl4WWtYVzhHVUt1V3FrTHhrd0ZnODY5V1BtKy9kMlRIUS9ZYnpqYlFkaUZ6cG5rWTJDNjFEditTMjZHODYweEZra3lLU0ZTdmpjSkdZRkE2M25JS2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjc4MDYxCWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKc0lZdVRBOER5dUpGbktEbUlwN29CZ0tQdWswNnJXQUpIZ1lUU1R3RjZRbkI0TzFERTBnZVhoeVdyM3BFcDdzM1pWOXJZbmo0eGJkS05UOEN0ODRYQ1E9PQo=",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.9/Sarant.app.tar.gz"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTNZaldqcXB4dVRMMXd3SzJLbzJrUU1NVTRBOXo3VllGb0Nzd0Noby8zbWFRbGd6QXZ6eHJ0dXR2azBSNDFSQ0hiK1VTUDlya3ZEaTM0WXhYY3hZTFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjc4MTIyCWZpbGU6U2FyYW50XzAuMi45X3g2NC1zZXR1cC5uc2lzLnppcApuREEvbjJWSnlodEtzMHdlZzUzbVBYZGZpRTc0TjNtTjZ5cTFIWmNaU1VxcHp6T2tUdEJCMVN5UzErbmtBdlVpdGJ2OUYrQWZQZWw3RytMcWdRVXREQT09Cg==",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.9/Sarant_0.2.9_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTFNRExqSlM2RVZCT092ZXRQVldsVFRtMVhPYnB3VkRXemFpT1drcjI0dG5jQ0V5NlZZTEl4K1RmQXlZUlJkTjlNb2dCdDRJQTkyNHBxYThXQTNHMmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzUyNTc5CWZpbGU6U2FyYW50XzAuMi4xMF94NjQtc2V0dXAubnNpcy56aXAKODNuUU10Znp5SGtoZGp5T1VvdXVTSUo5eWw0RDNmSzRhZTkrSStVY3cxeHVSNHNiL09SZVRiWCthOTBxa2hCVVQ1Mm9JbjBFcVdzcFZJelNBazhiRHc9PQo=",
+      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.10/Sarant_0.2.10_x64-setup.nsis.zip"
     }
   }
 }
