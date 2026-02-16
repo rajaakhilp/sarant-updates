@@ -1,15 +1,19 @@
 {
   "version": "0.2.13",
   "notes": "Automatic release for version v0.2.13 generated on 2026-02-15 14:05:26",
-  "pub_date": "2026-02-15T09:30:25.358536Z",
+  "pub_date": "2026-02-16T05:48:24.167819Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTFudHc3RDY1eEZCZ1lrbWloK21ZUzRZV094UFNHTEozY3J2Mlk4aTV1RU9BaCtyamgzb3ltUndORSt5d3I5VG1EZ1l2azA1dzAwQ2dSeUhPMk5BcGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTQ0NTA0CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKS09keTBocG1lWFJEcHNBTDhkTDcrcnVRL0hXL1dhSkVtSHl4YktuWnMxWHAwTHdHb0Y1clZSSC9BdHBDYUdOVThYTk1KSmNzUGZQNitrUzNxL1p1QkE9PQo=",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.13/Sarant.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUS9SenFsMW9zVU9WUkwwU0ZBTE5RZlpCdWIyVnZZQWIvdFFOMWRDMDVRb1BqeGdWRisrTXh3S093SkFES1ZOQVhQeWhqUU1CZ3VSckJYekhqckw5WXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjE5MTk4CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKK2FvcmQySXlrMkhCZzlubVpIRnFGdVVUQjVqTkZrSUJjS2MrRCt6RzBXc1cvcDVsOVZMVU1iT24xdFg3ZUFDQ0NRWVZ0aWZiR0RuNE1YdFlvbkUvQWc9PQo=",
+      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.13/Sarant_0.2.13_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTkxV2JJQXZjUWNhWTZ3eCtvbGVYbkpBWVBUdmVGREZkK0ZidytadG5iZFczeTN0NER4Z2c0N0NsSnllMGtMOGdiQzNWZFZKOTY4MytZRHdHeEhSMGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTQ3Mzg0CWZpbGU6U2FyYW50XzAuMi4xM194NjQtc2V0dXAubnNpcy56aXAKWU81cjRCOEx0dGVrWGV1RnBVYm05eFJXdzdkdFM1b1hSK2czLzlwbjgrY0tkRytHRzgwRzZEZ1dvUmkwenhud2lUYnhaaEFha0dFQ2svQVYvdGNUQVE9PQo=",
       "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.13/Sarant_0.2.13_x64-setup.nsis.zip"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTJpeWR4ZnRLSGV3dEFjeU9kVHRzRXRoNU1XaVRjU2Z3R0N5d1NEdzdteDl4VkQ0LzhvS2dyaGJKc01mSi80dGNSbGdJR1ZUckdQa2xJT3djQnhsRmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjE5NzAxCWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKdnB6UThKT0tpV2NuVk9FMlNBelVJWjZZWGZMV1BhUjlKbk1BZFA4TzgrUTVZa1NTYjNqNlAwOCs2aWFvdkZQZEQ5MGlKWVJSVS9BZ1dEWFVVVGl0RHc9PQo=",
+      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.13/Sarant_0.2.13_x64.app.tar.gz"
     }
   }
 }
