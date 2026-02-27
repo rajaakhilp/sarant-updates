@@ -1,7 +1,7 @@
 {
   "version": "0.2.17",
   "notes": "Automatic release for version v0.2.17 generated on 2026-02-27 18:59:38",
-  "pub_date": "2026-02-27T13:29:38.427909Z",
+  "pub_date": "2026-02-27T13:34:58.084785Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTRmSi9KVHNLcjVWSld3NnljaUU4eTcwSlNsc1hLSnFwdWVWNVJZdHZOcU4wemswTVQ2OEZBZ1RnU0tVU0VVMHZnTDdNQU55VEhYZXZnalhwcVJvYVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTk4ODY1CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKaFJFRmh4ZzVtaFNPdmNOUzFDRlllZnQ1cm1ZbEhOOXV0TytTMVVNRUJJdkJQZkg4MzdDOWJkMUNOQ3I2akxEdzVYVUNucUdQK2FBMld4WmtEKzZoQnc9PQo=",
@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTUxYkVRZ01XVGdlTCtnWVE1S256bmVGZG12Y050VVdSWEo3b0d0dmhoV0VZY2I4KzFUM2lRNCt5V0tXNzJjTjRYaUZQcm1RM1dlNGtxVm92d3hRVGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTk4OTE5CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKZWVsWkJDSnJCQmhtckxvdlVmekFrWTc4Vnp0TUdweUtxZmVPclhmdXRWM3VCYjhrUGJUVXBZUDRoSjJUNUF2NlZsMjdSeXZSZDZhWVluVlpkOXdsQWc9PQo=",
       "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.17/Sarant_0.2.17_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTE2VlJuOUlVbTBVTzd6aDRBNFNlTy9aaFNlejN5QUYxdy9Vd1lSS3h5dVNZdlkwLzVVc2JHWUNvdDJwczRVaU5ieWJWMDlKbkJwRzNOMWJzaHpSZlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTk5MjQ2CWZpbGU6U2FyYW50XzAuMi4xN194NjQtc2V0dXAubnNpcy56aXAKdm82WnNpSk5OUHltdzNWVisranRXcldMWTcxQk42QWwxU0tvU2NsTUE4OUc3S3VzYkF6KzZkZERyNlBWbDJwRXYyelZaM2tzbmRNcm1QYkk0KzQyQUE9PQo=",
+      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.17/Sarant_0.2.17_x64-setup.nsis.zip"
     }
   }
 }
