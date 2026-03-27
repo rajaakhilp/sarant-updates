@@ -1,19 +1,11 @@
 {
-  "version": "0.2.29",
-  "notes": "Automatic release for version v0.2.29 generated on 2026-03-25 19:06:01",
-  "pub_date": "2026-03-25T13:40:24.658269Z",
+  "version": "0.2.30",
+  "notes": "Automatic release for version v0.2.30 generated on 2026-03-27 17:34:42",
+  "pub_date": "2026-03-27T12:04:42.305934Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUSt4M2kweERWbDZxOUNGZlp6WkVLZnNRMHgrbUxHUncxcWR4QUZ4N1NlUXhYZFJRUGlxM1FGRWJHUmRRbVdpUDBFNDZ6VTNWZCtiV2x5Wm45cXc0amdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQ1NjczCWZpbGU6U2FyYW50XzAuMi4yOV94NjQtc2V0dXAubnNpcy56aXAKb3cxUGhTNjk2RG9hVDRuYWpGc0kwTUsyNEdCNUwzVFR2OGNBN1FuY2VqSW9sZFRib3N1TS9ZVzZaREZWUEFXakk5VVgweUJPN1pWSkpvejRTaWVqQUE9PQo=",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.29/Sarant_0.2.29_x64-setup.nsis.zip"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTZLSjQwZTQreEJUc3MxdTlIMlVlRC9uUURQbVF3VUtLTXcyMWpvVzhXQ1ZrcDlZcXB3bkhqQVQ1MDJJWXdKdDFwL1ljZ2RWUlhTNko0V0oxK2oycGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQ1MzY4CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKOUdUdWMzOHJJcGpWZEQydU5OcGhpNy84OXhLUzdzS2ZwbW40NUxmTGRNNjgzcGdFcERQZlNBM1NnVXpXV0FUNnp0cEU5NkpmL3FXNVlzbkZSdlgxQnc9PQo=",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.29/Sarant_0.2.29_aarch64.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTI1Rzl5MzlndTB1ZGNwSXVSa1hYSXp3OE5jVk9BQzRsVTkwbk1WcjJray84Q0VaeWJQY2J1ZXdack82dlVhTmd3cElMNUpXK0VZMm1wUHNBallkU0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQ1NTE3CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKbXE5SmM3cFdNcEtPYXQ1cUoyR2pJbUZXQUd5WS9BQkc0aXdLeWFxYmhwRGlTVEJKeVpYWWZDeFFzWTJCOW9DTWFkRnBzYnprZG9OZmJDdEVPYkJLQWc9PQo=",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.29/Sarant_0.2.29_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUXh2ZGpPRW9TV245Q3FaYjh6MGl5OWdzM0R0WXA3NlpDSm5XOUI2VlFjZEtMZUpSY1Y1VC9Mb0lCR3NDUGowNkVXSktCTGVJTUpmTi9xMmpLRDNPZlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjEzMDQyCWZpbGU6U2FyYW50XzAuMi4zMF94NjQtc2V0dXAubnNpcy56aXAKd1lVMWtIWEJKS2ZnbWx5bHQ0N0RzQnFIOTVEMzh2UWlrRC95b3BHcE5sNUhqWExiTS8wZW9Ram9yTDNDUGtpb01LL0swTU9PS2hFMVNnK0I2bGpLQ1E9PQo=",
+      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.2.30/Sarant_0.2.30_x64-setup.nsis.zip"
     }
   }
 }
