@@ -1,24 +1,14 @@
 {
-  "version": "0.3.6",
-  "notes": "Automatic release for version v0.3.6 generated on 2026-07-20 17:46:20",
-  "pub_date": "2026-07-20T13:24:28.058086Z",
-  "installers": {
-    "darwin-aarch64": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.3.6/Sarant_0.3.6_aarch64.dmg",
-    "darwin-x86_64": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.3.6/Sarant_0.3.6_x64.dmg",
-    "windows-x86_64": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.3.6/Sarant_0.3.6_x64-setup.exe"
-  },
+  "version": "0.3.9",
+  "notes": "Automatic release for version v0.3.9 generated on 2026-10-26 18:46:36",
+  "pub_date": "2026-10-26T13:16:36.477238Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUXp2N3BLRStzekY0aUR1RVNQOFNyM3V3STJBcFhRdVVmNU5FY2pIWTVBSzYzdndpaTBsSzRQQjdkbllBd1hveml6cUxXdERzdlVsNEc5WkdGaGpDZmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTUzNzE5CWZpbGU6U2FyYW50XzAuMy42X3g2NC1zZXR1cC5uc2lzLnppcApNTHEyZktibmI4ckxxVUNjdlAxdTNuKzJGOHBCdTZpM2ozOExHeVJBc08zREhzeHZ2akVVS2lXN0F3RFY5YXo5WkYxR081akZHVE4rMHFJaUxSeFlCQT09Cg==",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.3.6/Sarant_0.3.6_x64-setup.nsis.zip"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTFFYWhsRGZPLzZ1ZnN1dUNlWVMwdmZRdmpEY0tMbWV5NUVmV0ljNFdKQzRWcHNhSzdWVXFjbmp0cEErd1prdnpCeVlFTktUdzYyamFEdExYYjRxVEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTUyODU1CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKR2l6YUdUdmNaWHVQTFpHR3o3MXZmWVRVYTkzQTlXLzdOcDRmZkJaMVZXQlhjVzl0ek9kRytUTWNjSlkxMUUwWlM5UmhNYXdrNjN3K2NLc1YxeHM2Qnc9PQo=",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.3.6/Sarant_0.3.6_aarch64.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTdwcmN5a2g1ZFR6cFE2TkRpKzlvV0V0aU93MGo2Y0R4V0s5ZTlNSmgvdm9sMnVaQlA0blV3ZUhRSndTVHhrQkd5dDBLZU94M3lHQ29JVTRDc20yTHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTUyOTM5CWZpbGU6U2FyYW50LmFwcC50YXIuZ3oKclVHRHc5UlVuZXNKVDh6UTdjeUdNaDhRRnBvRURFYkdwamNaUVBINTIxYTgzL0NLSWdvMTM3MzI0ekhUY29NemxaQ29kTUlyb0xnTkoyWnd2MTBGQnc9PQo=",
-      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.3.6/Sarant_0.3.6_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjY5MkdYeHNWUTlYKzBNRmVIQ28rclF1UVpOTi96VUVaUHlxb2xxL0FsaDdLbTB6dG8rcnBVMi84T0VMbzZnTU96Y0Myem1pRFprVDZ4T1BuVGNEMDREMWNBbWVQM2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE4ODQ4CWZpbGU6U2FyYW50XzAuMy45X3g2NC1zZXR1cC5uc2lzLnppcApaUGpCckRDSjJCLzVZaHhGM0ZkQ3pNL05zd0k0bnNYb3pFVEVVVnA0N3FhcStPdEc5SitBb2p4RlRYbGJiT2tHa3dFM0ZqY3I1ak16dzRoQzVnTWpCdz09Cg==",
+      "url": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.3.9/Sarant_0.3.9_x64-setup.nsis.zip"
     }
+  },
+  "installers": {
+    "windows-x86_64": "https://github.com/rajaakhilp/sarant-updates/releases/download/v0.3.9/Sarant_0.3.9_x64-setup.exe"
   }
 }
